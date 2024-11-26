@@ -1,3 +1,3 @@
 data_dir = 'Vigna-mungo'
-dist_file = 'loong.mgf'
-threshold = 40
+dist_file = 'lng.mgf'
+threshold = 30
